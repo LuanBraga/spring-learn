@@ -28,4 +28,7 @@ public class Student {
     private String email;
     private LocalDate dob;
     private Integer age;
+
+    public Student(String name, String email, LocalDate dob, Integer age) {
+    }
 }
